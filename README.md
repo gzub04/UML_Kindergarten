@@ -1,1 +1,2 @@
-# UML_Kindergarten
+# System model for Kindergarten
+Project created for **Software Engineering** classes at Warsaw University of Technology. It was designed using IBM Relational Software Architect Designer. It shows a concept for a Kindergarten software to manage employees, children and groups of children, schedules for each group. It is partially implemented in Java, with all the necessary functions required to follow CreateNewGroupSequenceDiagram (UML sequence diagram) and some additional functionality like viewing children groups or employees.
